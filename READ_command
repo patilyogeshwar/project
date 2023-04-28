@@ -1,0 +1,22 @@
+Git Hub 
+npm i git
+
+React Command 
+npx create-react-app myproject
+npx create-react-app project
+
+
+
+npm run server
+npm start
+
+npm i nodemon
+
+npx create-react-app project 
+npm i -g npx  (node package executor)
+npm i react-router-dom (routing)
+npm init  (download dependency and node module)
+npm i express (backand framework)    
+
+npm i axios (URL call Frontend Side)
+npm i cors  (Backend side)
